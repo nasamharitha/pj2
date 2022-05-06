@@ -18,11 +18,11 @@
   <build>
     <finalName>pj2</finalName>
   </build>
-  <distributionManagement>
-    <repository>
-        <id>central</id>
-        <name>hari-VirtualBox-releases</name>
-        <url>http://192.168.43.63:8081/artifactory/repo-libs-release</url>
-    </repository>
-</distributionManagement>
+
+
+
+
+
+
+
 </project>
